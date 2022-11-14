@@ -1,0 +1,6 @@
+Steps to install and run the App locally
+
+1. Unzip the folder
+2. On the terminal, cd {dir_name} to go into the project directory (in this case it will be cd HunterTestApp)
+3. Run -> npm install
+4. Run -> npm start and when prompted the options, press w to run the app on the Web, which should open the app in the local browser
